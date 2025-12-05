@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhautik Chovatiya
-- 👀 I’m interested in making Web Applications for end users
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in making Digital life easier for end users
+- 🌱 Learning++ and learning++
 - 📫 How to reach me: chovatiyabhautik@gmail.com
 
 <!---
